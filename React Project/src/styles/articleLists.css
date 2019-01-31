@@ -1,0 +1,21 @@
+.content{
+    overflow-wrap: break-word;
+    color: black;
+}
+
+.list-article{
+    display: inline-block;
+    border: 2px ridge lightcyan;
+    margin: 10px;
+    padding: 2px;
+    border-radius: 5px;
+    width: 40%;
+}
+
+.list-article img{
+    width: 100px;
+    float: left;
+}
+.list-article a {
+    text-decoration: none;
+}

@@ -1,0 +1,24 @@
+.nav-bar {
+	vertical-align: bottom;
+}
+
+.nav-bar ul{
+	list-style-type: none;
+	text-align: center;
+}
+
+.nav-bar a{
+	text-decoration: none;
+	color: yellow;
+	display: block;
+	background-color: powderblue;
+	padding: 15px;
+}
+
+.nav-bar li{
+	float: left;
+}
+
+.nav-bar a:hover{
+	background-color: navy;
+}

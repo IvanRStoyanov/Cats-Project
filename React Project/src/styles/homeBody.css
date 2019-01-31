@@ -1,0 +1,16 @@
+.home-article{
+    display: inline-block;
+    border-left: 2px solid darkgreen;
+    border-right: 2px solid darkgreen;
+    margin: 10px;
+    width: 30%
+}
+.home-article article{
+    background-color: antiquewhite;
+    margin: 5px;
+    padding: 5px;
+}
+
+.wrapper{
+    margin: 0 auto;
+}
